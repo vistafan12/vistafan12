@@ -2,7 +2,7 @@
 ### Hello, vistafan12 here. Nice to see you 👋
 *just call me vista*
 
-[Website](https://vistafan12.eu.org) / [Twitter](https://twitter.co/vistafan12) / [Mail](mailto:kontakt@vistafan12.eu.org)
+[Website](https://vistafan12.eu.org) / [Twitter](https://twitter.com/vistafan12) / [Mail](mailto:kontakt@vistafan12.eu.org)
 
 #### Projects that I worked/working on:
 * [BitView](https://bitview.net) and [VidBit](https://vidbit.co) - free video sharing websites that emulates the YouTube evolution.
