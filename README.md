@@ -2,12 +2,11 @@
 ### Hello, vistafan12 here. Nice to see you [👋](https://vistafan12.eu.org/kupony)
 *just call me vista*
 
-[Website](https://vistafan12.eu) / [Twitter](https://twitter.com/vistafan12) / [Mail](mailto:kontakt@vistafan12.eu.org)
+[Website](https://vistafan12.eu) / [Twitter](https://twitter.com/vistafan12) / [Mail](mailto:kontakt@vistafan12.eu)
 
 #### Projects that I worked/working on:
 * [BitView](https://bitview.net) and [VidBit](https://vidbit.co) - free video sharing websites that emulates the YouTube evolution.
 * [zpcz](https://zpcz.ct8.pl/) (PL) - free anonymous video sharing project.
-* [VidLii Downloader](https://vistafan12.eu.org/vd) - quick and easy video download from VidLii.
 
 
 
